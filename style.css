@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  color: #fff;
+  background-color: #1bc874;
+}
+
+.list {
+  background-color: #1bc874;
+  color: #fff;
+}
+
+/* Grilled Chicken Breasts */
+/* .grilled-chicken {
+  background-color: #1bc874;
+  color: #fff;
+} */
+
+/* Kabobs */
+/* .kabobs {
+} */
+
+/* Pulled-Ham */
+/* .pulled-ham {
+  display: none;
+} */
